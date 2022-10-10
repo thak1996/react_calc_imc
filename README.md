@@ -9,3 +9,5 @@ Projeto desenvolvido durante o curso [b7web](https://b7web.com.br)
 
 ### Para Executar
 - `npm start`
+
+<!-- Ajustes gerais -->
